@@ -1,0 +1,4 @@
+repository "Corona Rider@BIFE_CREW@cloud"
+  path "/"
+    br "/main"
+    co "/main"
